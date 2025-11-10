@@ -181,7 +181,6 @@ async def fetchnaukri(listofkey):
 
 Mohammed Asif Ameen Baig
 - 🎓 B.Tech in Robotics and Automation Engineering | GNA University
-- 💼 Junior Data Scientist Intern @ CodTech IT Solutions Pvt. Ltd.
 - 🌐 GitHub: asif684
 
 ---
